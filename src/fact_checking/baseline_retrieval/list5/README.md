@@ -1,0 +1,2 @@
+The contents of this folder were taken and modified from the official [LisT5](https://github.com/castorini/pygaggle/tree/master/experiments/list5) repo.
+You will need to install separate python with packages following their requirements.

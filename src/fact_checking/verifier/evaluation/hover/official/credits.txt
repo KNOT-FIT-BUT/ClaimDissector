@@ -1,0 +1,2 @@
+Contents of this folder were taken from HoVer's official github.
+URL: https://github.com/hover-nlp/hover/tree/main/my_transformers/data/metrics
