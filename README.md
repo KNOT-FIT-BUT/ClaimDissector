@@ -160,7 +160,7 @@ Now you can run the `runefile` scripts, for example, to train the CD model for F
 run
 
 ```
-python -m src.fact_checking.verifier.runfile.run_debertamnli_V2_mhsent_noresidual_balanced 35
+python -m src.fact_checking.verifier.runfile.run_debertamnli_V2_mhsent_noresidual 35
 ```
 
 Note that in first run, dataset preprocessing is done and cached automatically. This will take a while.
