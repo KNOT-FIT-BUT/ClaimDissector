@@ -59,4 +59,4 @@ These contain raw annotations from 4 annotators. The format is the following
 Uncommented fields have same semantics as for processed dataset.
 
 ## Evaluation
-Inspect method [eval_wlann_for_threshold]() to see how evaluation is implemented.
+Inspect method [eval_wlann_for_threshold](https://github.com/KNOT-FIT-BUT/ClaimDissector/blob/d511cf48987be3a050f6f2d8ccdd30c4825f9283/src/fact_checking/verifier/lrm_verifier_trainer.py#L3745) to see how evaluation is implemented.
