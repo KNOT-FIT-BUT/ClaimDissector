@@ -28,9 +28,9 @@ Corresponding author `martin.fajcik@vut.cz`.
    appears,
    we hope to refactor the code and make it more readable. For now we follow the idea,
    _"it is better to have messy and working code released, than having clean and non-working code hidden on our disks"_.
-2. Release SOTA results on the [REALFC dataset](https://arxiv.org/abs/2104.00640). We will add this to appendices of
+2. ~~Release SOTA results on the [REALFC dataset](https://arxiv.org/abs/2104.00640). We will add this to appendices of
    camera-ready.
-   The REALFC code is already in the repo.
+   The REALFC code is already in the repo.~~ DONE
 3. Release checkpoints for each dataset, not just FEVER.
 4. Re-test recipe for document retrieval on FEVER.
 
